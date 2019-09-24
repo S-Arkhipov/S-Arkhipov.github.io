@@ -1,5 +1,5 @@
 # Отчет а лабораторных работах
-# студент группы [ИДБ-16-06](https://github.com/stankin/design-2018/wiki/list-idb-15-xx) Фамилия И.О.
+# студент группы [ИДБ-16-06](https://github.com/stankin/design-1/wiki/list-idb-16-06) Архипов С.С.
 
 ## Лабораторная 1
 
