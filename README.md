@@ -12,6 +12,11 @@
 
 
 Диаграмма классов:
+![123](https://github.com/S-Arkhipov/S-Arkhipov.github.io/blob/master/JSynIWGn5CRnUdEAnrOA7c9TQslha0GtR7OYBraiHD2jfxFGGiJn154PHWQSCtovaG-cSDi_Fxx7MwMiEUztGQMjRsuqwnsPe5EYExLOQxEzvhXlx4KCaUbguxDJYtFcU3kNTH0YCB9rV9pkrRoon2jAVQm7zFLXIJhHfKxPiSmJEia5lvWmAhnWm3ScIHE-y5CFjIMyeyTGMtoYq0cUHV.png)
+
+Диаграмма прецедентов:
+![234](https://github.com/S-Arkhipov/S-Arkhipov.github.io/blob/master/fP6nJiCm48RdtbESCi5GYGT0g2bpf6pCLc9QgscCpeuOA58eAm_0mCB46a1LfKBw3EStug8qg7i7owV_Fdy-ouWmSLwHhvO5k8KfxnIf9QhCMy8764rLjfYHhShysXOItSoDrp2AYUnzdqmBGGIqb6iwZXwFV9NJcNBwP6EXRprwYsHcSu-v8PrvOqlevqqlK3cC-8Ct_CDx_f9z5nsQoQ.png)
+
 
 ## Лабораторная 2
 
